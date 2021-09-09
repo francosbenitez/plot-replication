@@ -1,4 +1,4 @@
-# Plot Replication: Project Overview
+# Plot Replication
 - Developed a customized plot using R to visualize the average age of the texts of Argentine psychology majors.
 
 ## Code and Resources Used
